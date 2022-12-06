@@ -1,1 +1,1 @@
-(mostly) Python tutorials for ROS2 Humble
+Python (mostly) tutorials for ROS2 Humble
